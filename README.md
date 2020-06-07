@@ -1,6 +1,6 @@
 # Quiz_MCQ_C_mini-project
 This is an MCQ based quiz with C programming using graphics.h module. Done as a mini project in 2nd semester B.Tech, PES University.
-I have added simple colorful graphics and sound for fun XD.
+Done this using Tubo C++ IDE. I have added simple colorful graphics and sound for fun XD.
 
 # **C – Project Report**
 
