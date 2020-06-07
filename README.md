@@ -1,5 +1,6 @@
 # Quiz_MCQ_C_mini-project
-MCQ based quiz with C programming using graphics.h module
+This is an MCQ based quiz with C programming using graphics.h module. Done as a mini project in 2nd semester B.Tech, PES University.
+I have added simple colorful graphics and sound for fun XD.
 
 # **C – Project Report**
 
@@ -38,3 +39,4 @@ This is the final scoreboard of our program, where the final score and the detai
 Done by:
 
 -Hemant Nag
+-Tarun Achar
